@@ -12,4 +12,4 @@ Para poder ejecutar este código, necesitas tener instalado:
 2. Abre una terminal.
 3. Ejecuta el siguiente comando:
    ```bash
-   python "Calculo de area.py"
+   python "Calculo del area.py"
